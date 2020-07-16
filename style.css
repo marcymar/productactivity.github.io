@@ -1,0 +1,15 @@
+.navbar-brand {
+    background-color: rgb(255, 19, 19);
+}
+
+.navbar-toggler {
+    background-color: #ff1414;
+}
+
+.jumbotron {
+    background-color: rgba(252, 28, 28, 0.582);
+}
+
+#navbarSupportedContent {
+    background-color: silver;
+}
